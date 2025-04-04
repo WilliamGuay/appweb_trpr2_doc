@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Star Wars: TIE-Fighter"
-  text: "La documentation officielle et les revues de codes"
-  tagline: A game of space duels where you take the role of a pilot and fight agaisnt squadrons in a fast pace battle | Un jeu de duels dans l'espace où vous jouez le rôle d'un pilote et vous combattez contre des escouades annemies dans ce combat rapide.
+  name: "My Awesome Project"
+  text: "A VitePress Site"
+  tagline: My great project tagline
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,3 +22,4 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
