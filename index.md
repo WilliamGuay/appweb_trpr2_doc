@@ -3,16 +3,15 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "TP2 app web"
+  text: "Revue de code et documentation"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Revue de code
+      link: /code-review
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Documentation
+      link: /doc
 
 features:
   - title: Feature A
@@ -22,4 +21,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
