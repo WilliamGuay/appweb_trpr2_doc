@@ -23,6 +23,20 @@ Ajout du Service pour l'accès à la database de l'application.
 
 Implémentation d'un composant qui est un item pour les tableaux bootstrap détenant des informations pour le leaderboard.
 
-## More
+## Revue semaine 3
 
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+### Le code
+
+#### Main Game
+
+- Le code de main game semble un peu à s'apparenter au classique bol de spagetti mélangé et entrêlé à souhait.
+  Sinon, le reste du code est fonctionnel
+- Lance une alerte à la place d'un modal lorsque le joueur tente de quitter la page et n'affiche pas de modals lorsque le joueur gagne ou perds
+
+#### Leaderboard
+
+Le tri ne semble pas fonctionner en tout temps
+
+### Lest tests
+
+Lest tests semblent presque tous passer mais les tests de MainGame ne sont définitivement pas complets

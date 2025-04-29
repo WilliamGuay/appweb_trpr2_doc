@@ -9,7 +9,4 @@ hero:
     - theme: brand
       text: Revue de code
       link: /code-review
-    - theme: alt
-      text: Documentation
-      link: /doc
 ---

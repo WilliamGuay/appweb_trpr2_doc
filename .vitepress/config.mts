@@ -9,15 +9,14 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/code-review' }
+      { text: 'Revues', link: '/code-review' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Revues',
         items: [
           { text: 'Revue de code', link: '/code-review' },
-          { text: 'Documentation', link: '/doc' }
         ]
       }
     ],
